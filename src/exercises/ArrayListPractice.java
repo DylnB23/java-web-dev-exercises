@@ -12,7 +12,7 @@ public class ArrayListPractice {
         }
     }
     public static void main(String[] arr){
-        ArrayList<String> words = new ArrayList();
+        ArrayList<String> words = new ArrayList<>();
             words.add("Never");
             words.add("Gonna");
             words.add("Give");
